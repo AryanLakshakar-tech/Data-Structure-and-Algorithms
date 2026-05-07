@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     bool detectCapitalUse(string word) {
         int caps = 0;
 
